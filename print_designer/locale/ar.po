@@ -1,0 +1,106 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: frappe\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#. ai-translated; needs-native-review
+msgid "Action"
+msgstr "إجراء"
+
+#. ai-translated; needs-native-review
+msgid "Create"
+msgstr "إنشاء"
+
+#. ai-translated; needs-native-review
+msgid "Create New"
+msgstr "إنشاء جديد"
+
+#. ai-translated; needs-native-review
+msgid "Create or Edit Print Format"
+msgstr "إنشاء أو تعديل تنسيق الطباعة"
+
+#. ai-translated; needs-native-review
+msgid "Edit"
+msgstr "تعديل"
+
+#. ai-translated; needs-native-review
+msgid "Edit Existing"
+msgstr "تعديل الموجود"
+
+#. ai-translated; needs-native-review
+msgid "Edit Format"
+msgstr "تعديل التنسيق"
+
+#. ai-translated; needs-native-review
+msgid "Error Generating PDF..."
+msgstr "خطأ في إنشاء ملف PDF..."
+
+#. ai-translated; needs-native-review
+msgid "Exit"
+msgstr "خروج"
+
+#. ai-translated; needs-native-review
+msgid "Form"
+msgstr "نموذج"
+
+#. ai-translated; needs-native-review
+msgid "Full Page"
+msgstr "صفحة كاملة"
+
+#. ai-translated; needs-native-review
+msgid "Language"
+msgstr "اللغة"
+
+#. ai-translated; needs-native-review
+msgid "Letter Head"
+msgstr "ترويسة"
+
+#. ai-translated; needs-native-review
+msgid "PDF"
+msgstr "PDF"
+
+#. ai-translated; needs-native-review
+msgid "Please enable pop-ups"
+msgstr "يرجى تفعيل النوافذ المنبثقة"
+
+#. ai-translated; needs-native-review
+msgid "Please select DocType first"
+msgstr "يرجى تحديد نوع المستند أولا"
+
+#. ai-translated; needs-native-review
+msgid "Print"
+msgstr "طباعة"
+
+#. ai-translated; needs-native-review
+msgid "Print Format"
+msgstr "تنسيق الطباعة"
+
+#. ai-translated; needs-native-review
+msgid "Print Format Name"
+msgstr "اسم تنسيق الطباعة"
+
+#. ai-translated; needs-native-review
+msgid "Refresh"
+msgstr "تحديث"
+
+#. ai-translated; needs-native-review
+msgid "Select Document Type"
+msgstr "تحديد نوع المستند"
+
+#. ai-translated; needs-native-review
+msgid "Select Print Format"
+msgstr "تحديد تنسيق الطباعة"
+
+#. ai-translated; needs-native-review
+msgid "Set as Default"
+msgstr "تعيين كافتراضي"
+
+#. ai-translated; needs-native-review
+msgid "Try the new Print Designer"
+msgstr "جرّب مصمم الطباعة الجديد"
