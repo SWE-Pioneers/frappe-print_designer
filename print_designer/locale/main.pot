@@ -1,221 +1,207 @@
+# Translations template for Print Designer.
+# Copyright (C) 2026 Frappe Technologies Pvt Ltd.
+# This file is distributed under the same license as the Print Designer project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: frappe\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Project-Id-Version: Print Designer VERSION\n"
+"Report-Msgid-Bugs-To: hello@frappe.io\n"
 "POT-Creation-Date: 2026-07-11 19:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Arabic\n"
-"Language: ar\n"
+"PO-Revision-Date: 2026-07-11 19:03+0000\n"
+"Last-Translator: hello@frappe.io\n"
+"Language-Team: hello@frappe.io\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "Generated-By: Babel 2.16.0\n"
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:973
 msgid "<b>This Print Format was created from older version of Print Designer.</b>"
-msgstr "<b>تم إنشاء تنسيق الطباعة هذا من إصدار أقدم من مصمم الطباعة.</b>"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:19
 msgid "Action"
-msgstr "إجراء"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/PropertiesPanelState.js:416
 msgid "Are you sure you want to delete the page?"
-msgstr "هل أنت متأكد أنك تريد حذف الصفحة؟"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:644
 msgid "Atleast 1 element is required inside body"
-msgstr "مطلوب عنصر واحد على الأقل داخل المتن"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:153
 msgid "Barcode (B)"
-msgstr "الباركود (B)"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:28
 msgid "Create"
-msgstr "إنشاء"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:23
 msgid "Create New"
-msgstr "إنشاء جديد"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:16
 msgid "Create or Edit Print Format"
-msgstr "إنشاء أو تعديل تنسيق الطباعة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:981
 msgid "Do you want to save copy of it ?"
-msgstr "هل تريد حفظ نسخة منه ؟"
+msgstr ""
 
-#: print_designer/print_designer/page/print_designer/print_designer.js:28 print_designer/print_designer/page/print_designer/print_designer.js:68
+#: print_designer/print_designer/page/print_designer/print_designer.js:28
+#: print_designer/print_designer/page/print_designer/print_designer.js:68
 msgid "Edit"
-msgstr "تعديل"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:24
 msgid "Edit Existing"
-msgstr "تعديل الموجود"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print_format.js:19
 msgid "Edit Format"
-msgstr "تعديل التنسيق"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/components/layout/AppDynamicPreviewModal.vue:11
 msgid "Enter Label"
-msgstr "أدخل التسمية"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:154
 msgid "Error Generating PDF..."
-msgstr "خطأ في إنشاء ملف PDF..."
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:124
 msgid "Exit"
-msgstr "خروج"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:246
 msgid "Form"
-msgstr "نموذج"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:225
 msgid "Full Page"
-msgstr "صفحة كاملة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:123
 msgid "Image (I)"
-msgstr "الصورة (I)"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:977
 msgid "It is not compatible with current version so instead make copy of this format using new version"
-msgstr "غير متوافق مع الإصدار الحالي، لذا أنشئ نسخة من هذا التنسيق باستخدام الإصدار الجديد بدلاً من ذلك"
+msgstr ""
 
-#: print_designer/print_designer/client_scripts/print.js:76 print_designer/print_designer/client_scripts/print.js:271
+#: print_designer/print_designer/client_scripts/print.js:76
+#: print_designer/print_designer/client_scripts/print.js:271
 msgid "Language"
-msgstr "اللغة"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:286
 msgid "Letter Head"
-msgstr "ترويسة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:1222
 msgid "Loading Print Format"
-msgstr "جارٍ تحميل تنسيق الطباعة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:99
 msgid "Mouse Pointer (M)"
-msgstr "مؤشر الفأرة (M)"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:232
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/point_of_sale.js:22
 msgid "Please enable pop-ups"
-msgstr "يرجى تفعيل النوافذ المنبثقة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:462
 msgid "Please resolve overlapping elements "
-msgstr "يرجى حل تداخل العناصر"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print_format.js:21
 msgid "Please select DocType first"
-msgstr "يرجى تحديد نوع المستند أولا"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:219
 msgid "Print"
-msgstr "طباعة"
+msgstr ""
 
-#: print_designer/print_designer/client_scripts/print.js:55 print_designer/print_designer/client_scripts/print.js:256
+#: print_designer/print_designer/client_scripts/print.js:55
+#: print_designer/print_designer/client_scripts/print.js:256
 msgid "Print Format"
-msgstr "تنسيق الطباعة"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:43
 msgid "Print Format Name"
-msgstr "اسم تنسيق الطباعة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:998
 msgid "Print Format not saved"
-msgstr "لم يتم حفظ تنسيق الطباعة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:115
 msgid "Rectangle (R)"
-msgstr "مستطيل (R)"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:236
 msgid "Refresh"
-msgstr "تحديث"
+msgstr ""
 
-#. ai-translated; needs-native-review
-#: print_designer/public/js/print_designer/components/layout/AppBarcodeModal.vue:17 print_designer/public/js/print_designer/components/layout/AppDynamicTextModal.vue:21
+#: print_designer/public/js/print_designer/components/layout/AppBarcodeModal.vue:17
+#: print_designer/public/js/print_designer/components/layout/AppDynamicTextModal.vue:21
 msgid "Search Doctypes"
-msgstr "البحث في أنواع المستندات"
+msgstr ""
 
-#. ai-translated; needs-native-review
-#: print_designer/public/js/print_designer/components/layout/AppBarcodeModal.vue:47 print_designer/public/js/print_designer/components/layout/AppDynamicTextModal.vue:51
+#: print_designer/public/js/print_designer/components/layout/AppBarcodeModal.vue:47
+#: print_designer/public/js/print_designer/components/layout/AppDynamicTextModal.vue:51
 msgid "Search Field by label, fieldname or fieldtype"
-msgstr "البحث عن الحقل حسب التسمية أو اسم الحقل أو نوع الحقل"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/components/layout/AppImageModal.vue:18
 msgid "Search by filename or extension"
-msgstr "البحث حسب اسم الملف أو الامتداد"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:32
 msgid "Select Document Type"
-msgstr "تحديد نوع المستند"
+msgstr ""
 
 #: print_designer/print_designer/page/print_designer/print_designer.js:50
 msgid "Select Print Format"
-msgstr "تحديد تنسيق الطباعة"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print_format.js:42
 msgid "Set as Default"
-msgstr "تعيين كافتراضي"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:131
 msgid "Table (A)"
-msgstr "جدول (A)"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/MainStore.js:107
 msgid "Text (T)"
-msgstr "نص (T)"
+msgstr ""
 
 #: print_designer/print_designer/client_scripts/print.js:182
 msgid "Try the new Print Designer"
-msgstr "جرّب مصمم الطباعة الجديد"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:246
 msgid "You have Empty Table. Please add table fields or remove table."
-msgstr "لديك جدول فارغ. يرجى إضافة حقول الجدول أو إزالة الجدول."
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:465
 msgid "in footer"
-msgstr "في التذييل"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:464
 msgid "in header"
-msgstr "في الترويسة"
+msgstr ""
 
-#. ai-translated; needs-native-review
 #: print_designer/public/js/print_designer/store/ElementStore.js:466
 msgid "in table, auto layout failed"
-msgstr "في الجدول، فشل التخطيط التلقائي"
+msgstr ""
+
